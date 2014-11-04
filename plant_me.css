@@ -1,0 +1,82 @@
+.header
+{
+	width: 100%;
+	height: 135px;
+	
+}
+	.logo
+	{
+		margin-left:1%;
+		margin-top:4px;
+		float:left;
+	}
+	.logo2
+	{
+		margin-right:1%;
+		margin-top:4px;
+		float: right;
+	}
+	.title
+	{
+		font-size: 47px;
+		font-weight: bolder;
+		color: black;
+		float: left;
+		margin-top: 37px;
+		margin-left: 41px;
+	}
+
+.section1
+{
+	width: 72%;
+	height: 200px;
+	border-radius: 61px;
+	background-color: #98D9DA;
+	margin: 0 auto;
+	position: relative;
+	margin-top: 60px;
+	margin-bottom: 128px;
+}
+
+
+		.description
+			{
+				font-size: 22px;
+				font-family: arial;
+				color: white;
+				font-weight: bold;
+				margin-top: 5px;
+				position: absolute;
+				top: 53px;
+				text-align: center;
+
+			} 
+
+
+.section2
+{
+	
+	height: 793px;
+	width: 100%;
+	background-image: url("images/plantas_casa.jpg");
+	background-size: cover;
+	position: relative;
+}
+	.option1, .option2
+	{
+		position: absolute;
+		font-size: 52px;
+		color: #7B68EE;
+	}
+	.option1
+	{
+		top:5px;
+		left:341px;
+	}
+	.option2
+	{
+		top:5px;
+		right:341px;
+	}
+
+
